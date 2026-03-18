@@ -110,7 +110,7 @@ const showBalances = async () => {
           <div className="info">
             <p>✔ payer = existing user id</p>
             <p>✔ amount = expense value</p>
-            <p>✔ participants = comma separated ids</p>
+            <p>✔ participants = comma separated id</p>
           </div>
         </div>
 
